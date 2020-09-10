@@ -1,0 +1,7 @@
+## Issues:
+Messy data: rows are ommitted 
+
+
+## Goals:  
+One row should contain all the variables (characteristics) of an entry, so no blank cells. 
+Make sure that we get the data we need. 
